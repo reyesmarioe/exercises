@@ -1,0 +1,3 @@
+Username for 'https://github.com': miemi
+Password for 'https://miemi@github.com': abril1970 
+
